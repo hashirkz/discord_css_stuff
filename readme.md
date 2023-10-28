@@ -6,5 +6,3 @@ repo for discord custom css stylesheets
 | --------- | ----- | ----- |
 | lunar.css | dark  | y     |
 | nene.css  | light | y     |
-
-
